@@ -1,6 +1,6 @@
 class GetRequester
   
-  def initialize"
+  def initialize
     
     
     
@@ -9,7 +9,7 @@ class GetRequester
   def get_response_body
     
     
-  end 
+  end
   
   def parse_json
     
